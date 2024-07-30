@@ -6,7 +6,7 @@ This project simulates the motion of multiple double pendulums with varying init
   <img src="animations/double_pendulum1000_1.gif" width="49%" />
   <img src="animations/double_pendulum1000_2.gif" width="49%" /> 
 </p>
-
+Both animations illustrate the simulation of 1,000 pendulums with an initial condition precision of 0.01.
 
 ## Requirements
 
